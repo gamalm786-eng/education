@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://curious-raindrop-bff9ff.netlify.app/sitemap.xml

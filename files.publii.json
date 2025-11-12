@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "e5137895e9c57f42e0bf69989b300b69"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "70dfafd0b06e044cb3b8a327e3c18a6f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "122a4c43f0bcda85a69c7acaf1a8459a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "7f80cbfef5cebce7b16ad5e43aedd169"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "8caa19fde80b928bc20c202f3f90248f"
+    },
+    {
+        "path": "learn-quran-online-academy-a-comprehensive-gateway-to-mastering-quran-recitation-and-knowledge",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-academy-a-comprehensive-gateway-to-mastering-quran-recitation-and-knowledge/index.html",
+        "type": "file",
+        "md5": "ced404c489fef8ca8d567406815f18d1"
+    },
+    {
+        "path": "learn-quran-online-academy-the-modern-path-to-mastering-quran-recitation-and-understanding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-academy-the-modern-path-to-mastering-quran-recitation-and-understanding/index.html",
+        "type": "file",
+        "md5": "8a1dc4ffccb01f24c2018ae20a85809d"
+    },
+    {
+        "path": "learn-quran-online-academy-your-path-to-expert-quranic-learning-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-academy-your-path-to-expert-quranic-learning-from-home/index.html",
+        "type": "file",
+        "md5": "f47d59f4ab93f10ff539599b94c53b1f"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-30.jfif",
+        "type": "file",
+        "md5": "c241c7f2696469a8b91bd2d4f81675d9"
+    },
+    {
+        "path": "quran-recitation-classes-online-a-complete-guide-to-learning-the-quran-with-excellence-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-recitation-classes-online-a-complete-guide-to-learning-the-quran-with-excellence-from-home/index.html",
+        "type": "file",
+        "md5": "562c07afdbc49d0f8b1588a4407f3ea9"
+    },
+    {
+        "path": "quran-recitation-classes-online-master-the-art-of-reciting-the-quran-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-recitation-classes-online-master-the-art-of-reciting-the-quran-from-home/index.html",
+        "type": "file",
+        "md5": "8ff44fa9c1c49b3e966dd2e4c24f2bf9"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "fda56c9eb1e22ea21f004e9e643bf213"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "7545f178364b1ac1b400fbcee3af0465"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "3b9a96d0a5708cb1ca44c3e5815b451a"
+    }
+]
